@@ -230,7 +230,7 @@ class YJSimpleCamera: NSObject {
     private func setCamerBufferQueue() -> Bool
     {
         let bufferQueue:dispatch_queue_t = dispatch_queue_create("com.CameraManager.BufferQueue", DISPATCH_QUEUE_SERIAL)
-        CameraManager.outputBufferQueue = bufferQueue
+        YJSimpleCamera.outputBufferQueue = bufferQueue
         return true
     }
     
