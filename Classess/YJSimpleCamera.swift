@@ -1,4 +1,4 @@
-//
+//  Version:1.0.3
 //  YJSimpleCamera.swift
 //
 //  Created by Nubia on 16/5/17.

@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "YJSimpleCamera"
-  s.version      = "1.0.2"
+  s.version      = "1.0.3"
   s.summary      = "A short  of YJSimpleCamera."
   s.description  = "A short  of YJSimpleCamera.A short  of YJSimpleCamera.A short  of YJSimpleCamera."
 
